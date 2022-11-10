@@ -3,8 +3,10 @@
 
 ### Oeuvre préférée
 Nommez l'oeuvre que vous avez préférée lors de notre visite. En 2 à 3 lignes, expliquez pourquoi. 
-khkuhkhk
+
+La méduse étais mon préféré lors de notre visite.
 
 ### Oeuvre la moins appréciée
 Nommez l'oeuvre que vous avez le moins aimé lors de notre visite. En 2 à 3 lignes, expliquez pourquoi. 
 
+Le personne transgenre était le moins aimé pour moi, car
