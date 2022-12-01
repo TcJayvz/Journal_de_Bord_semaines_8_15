@@ -9,4 +9,4 @@ La partie qui m'a intéressé le plus durant la conférence c'est lorsqu'il parl
 ### Travail
 Suite à la conférence, aimerais-tu travailler dans le monde du jeu vidéo? Si oui, qu'est-ce qui t'a motivé dans la conférence et si non, pourquoi? (2 à 3 lignes)
 
-Non, car je ne voudrais pas que mon métier affecte ma
+Non, car je ne voudrais pas que mon métier affecte ma passion pour les jeux vidéos.
