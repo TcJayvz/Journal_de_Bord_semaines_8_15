@@ -2,6 +2,8 @@
 ## Préparation de la présentation 3 
 Joindre des images de votre tempête d'idée et des esquisses de votre projet. Expliquer en 2 à 3 lignes votre projet.
 
+Notre projet consiste sur un jeu RPG/Open World dans des paysages égyptiennes. Le jeux consiste a s'ameliorer, obtenir de meilleurs armes/armures, obtenir des habiletés magiques et finalement tuer les dieux égyptiens.
+
 ![image](https://user-images.githubusercontent.com/112128474/204927195-dfedca4f-e08c-4d89-8f64-03c7953f2192.png)
 
 
